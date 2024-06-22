@@ -22,7 +22,11 @@ Placing Orders
 Viewing Order History
 Order Details: Customers can view their past orders, including order date, items, total cost, and status.
 
+Option to update information
+To View Their profile
 Owner Functionalities
+
+Owner Facilities
 Restaurant Management
 Create Restaurant: Owners can create a new restaurant by providing details such as restaurant name, location, and cuisine type.
 Update Restaurant: Owners can update restaurant details as needed.
@@ -34,7 +38,7 @@ Delete Food Item: Owners can remove food items from their menu.
 
 Order Management
 View Orders: Owners can view orders placed by customers for their restaurant.
-Update Order Status: Owners can update the status of orders (e.g., preparing, dispatched, delivered).
+Update Order Status: Owners can update the status of orders .
 
 Demonstration Data
 Pre-Populated Data: The system initializes with some demonstration data for testing and demonstration purposes. This includes sample users (both customers and owners), restaurants, and food items.
