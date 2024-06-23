@@ -19,7 +19,6 @@ public class UIClient {
     private static FoodItemController foodItemController = FoodItemController.getInstance();
     private static OrderController orderController = OrderController.getInstance();
 
-    private UIClient() {}
 
     public static UIClient getInstance() {
         if (instance == null) {
